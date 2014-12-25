@@ -1,0 +1,13 @@
+{
+  "name": "sf-scraper",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "node-xlsx": "^0.5.1",
+    "nodegrass": "0.0.3"
+  }
+}
